@@ -1,5 +1,7 @@
 # TechOps API
 
+[![CI/CD](https://github.com/BabyBossKfy/techops-api/actions/workflows/ci.yml/badge.svg)](https://github.com/BabyBossKfy/techops-api/actions/workflows/ci.yml)
+
 API de gestion des incidents techniques d'une direction technique, avec authentification JWT, contrôle des accès par rôle et un assistant IA (RAG) qui répond aux questions à partir des procédures de maintenance.
 
 Projet de démonstration conçu pour montrer, sur un cas concret, le cycle complet d'une application métier : conception, développement, tests, conteneurisation et intégration/déploiement continus.
